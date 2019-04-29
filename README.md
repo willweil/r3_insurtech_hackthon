@@ -3,8 +3,4 @@
 # InsurTech Hackthon 2017: 
 ## R<sup>3</sup>: road risk rating 
 
-<center>
-	<video width="400" height="200" src="/r3_live_demo.mp4"
-	type="video/mp4" controls>		
-	</video>
-</center>
+[![R3 Live Demo](R3_live_demo.gif)]
