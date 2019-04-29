@@ -1,2 +1,4 @@
-![R3 Logo](/R3_Logo.png) Format: ![Alt Text]()
-# r3_insurtech_hackthon
+![R3 Logo](/R3_Logo.png)
+<img src="/R3_Logo.png" style="width:650px;height:150px;">
+# Insurtech Hackthon 2017: R<sup>3</sup>
+
